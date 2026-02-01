@@ -83,9 +83,3 @@ I care deeply about **code quality, maintainability, and developer experience**.
 > | 🔐 Features | Token refresh, WebSocket, Circuit Breaker |
 
 <br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveminsahin&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-</div>

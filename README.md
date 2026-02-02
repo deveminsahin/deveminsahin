@@ -65,12 +65,6 @@ I care deeply about **code quality, maintainability, and developer experience**.
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/deveminsahin/starter_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveminsahin&repo=starter_app&theme=radical&hide_border=true" />
-</a>
-
-<br/><br/>
-
 > **[Flutter Enterprise Starter](https://github.com/deveminsahin/starter_app)** — AI-Ready Template
 >
 > Production-ready Flutter starter with enterprise patterns.
